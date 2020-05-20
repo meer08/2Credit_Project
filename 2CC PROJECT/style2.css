@@ -1,0 +1,85 @@
+nav {
+  height: 15vh;
+  background: 	#303030;
+  font-family: 'Poiret One', cursive;
+  font-size: 30px;
+
+}
+a:link {
+  text-decoration: none;
+  color: white;
+}
+a:visited {
+color: white;
+}
+p{
+  font-family: 'Homemade Apple', cursive;
+  font-size: 30px;
+}
+.one{
+  font-size: 20px;
+  font-family: 'Poiret One', cursive;
+  text-align: justify;
+}
+.two{
+  max-height: 200px;
+}
+.three{
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+  font-family: 'Poiret One', cursive;
+  top: 50%;
+
+}
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/* Style the form icons  dodgerblue */
+.icon {
+  padding: 13px;
+  color: white;
+  min-width: 60px;
+  text-align: center;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/* Style the form icons  dodgerblue */
+.icon {
+  padding: 13px;
+  background: #24a0ed;
+  color: white;
+  min-width: 60px;
+  text-align: center;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.four {
+  border: 1px solid #303030;
+}
+.five{
+  font-size: 20px;
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+}
